@@ -7,6 +7,10 @@ Note: The provided command line examples are to remind you of the correct syntax
 and keywords, and won't necessarily work if you type them in blindly
 
 Other Note: to get help on a particular git command, use `git <command> --help`
+GIT Cheat Sheets: 
+https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
 
 ## Setup
 1. Install and setup git on your computer (remember to set your name/email)
